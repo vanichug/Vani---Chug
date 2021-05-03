@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there I am VANI👋
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanichug&show_icons=true&theme=radical" alt="Vani's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanichug&show_icons=true&theme=solarized-light" alt="Vani's github stats" />
 <br>
 
 ## 
